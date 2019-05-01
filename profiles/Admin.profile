@@ -368,6 +368,11 @@
     </externalDataSourceAccesses>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Is_Master__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
