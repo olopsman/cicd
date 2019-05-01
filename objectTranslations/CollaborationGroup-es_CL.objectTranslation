@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <quickActions>
+        <label><!-- NewGroupMember --></label>
+        <name>NewGroupMember</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroupRecord --></label>
+        <name>NewGroupRecord</name>
+    </quickActions>
+</CustomObjectTranslation>
